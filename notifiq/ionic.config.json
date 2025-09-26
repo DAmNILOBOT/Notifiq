@@ -1,5 +1,5 @@
 {
-  "name": "notifiq",
+  "name": "app",
   "integrations": {
     "capacitor": {}
   },
